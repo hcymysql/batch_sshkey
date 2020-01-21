@@ -23,5 +23,6 @@ cat test_host.txt
 
 
 # SSH主机批量互信认证
+执行：
 bash batch_sshkey.sh
 
