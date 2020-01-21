@@ -4,9 +4,9 @@ ip=$(echo "$i"|cut -f1 -d":")
 
 port=$(echo "$i"|cut -f2 -d":")
 
-user='hechunyang' #远程主机SSH用户名，具有sudo权限
+user='hechunyang'     #远程主机SSH用户名，具有sudo权限
 
-password='123456' #远程主机SSH密码
+password='123456'     #远程主机SSH密码
 
 # 主机配置文件
 
