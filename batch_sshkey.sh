@@ -1,7 +1,5 @@
 #!/bin/bash
 
-cd /root/ansible/
-
 cat /root/.ssh/id_rsa.pub > /root/.ssh/authorized_keys
 for i in `cat test_host.txt`
 do
