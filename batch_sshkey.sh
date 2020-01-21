@@ -8,7 +8,7 @@ do
     ip=$(echo "$i"|cut -f1 -d":")
     port=$(echo "$i"|cut -f2 -d":")
     user='hechunyang'
-    password='wdhcy159753@'
+    password='123456'
 
 set timeout 3600
 expect -c "
