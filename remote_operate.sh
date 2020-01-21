@@ -5,3 +5,4 @@ if [ ! -d /root/.ssh ];then
 fi
 
 cp ./authorized_keys /root/.ssh/
+
