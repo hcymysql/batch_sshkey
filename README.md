@@ -1,3 +1,5 @@
+将3个文件放入同一个目录下，例如/root/ansible/
+
 # 修改batch_sshkey.sh
 
 ip=$(echo "$i"|cut -f1 -d":")
