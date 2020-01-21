@@ -1,5 +1,4 @@
 #!/bin/bash
-
 cd /root/ansible/
 
 cat /root/.ssh/id_rsa.pub > /root/.ssh/authorized_keys
