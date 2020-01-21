@@ -13,11 +13,14 @@ password='123456' #远程主机SSH密码
 # cat test_host.txt 
 
 192.168.32.51:22
+
 192.168.32.52:22
+
 192.168.32.53:22
 
 3)remote_operate.sh（把管理机的公钥传给远程主机）
 
 4)SSH主机批量互信认证
+
 # bash batch_sshkey.sh
 
